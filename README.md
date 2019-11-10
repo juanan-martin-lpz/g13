@@ -1,3 +1,14 @@
+# THIS IS A WORK IN PROGRESS ###################################################################################
+
+Open a nix-shell an call make to compile.
+
+# Next Steps
+
+  * Install in nix-profile and make available in PATH.
+  * Install as a systemd service.
+
+#############################################################################################################333
+
 # Userspace driver for the G13
 
 ## Installation
